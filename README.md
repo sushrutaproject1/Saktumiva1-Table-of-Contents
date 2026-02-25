@@ -1,3 +1,5 @@
+[Table of contents](https://sushrutaproject1.github.io/Saktumiva1toc/)
+
 This is the website for the online edition and manuscript transcriptions created as part of the [Sushruta Project](http://sushrutaproject1.github.io) as presented through Saktumiva 1.0.
 Here, you may view the evolving critical editions of several parts of the *Suśrutasaṃhitā*.  
 
